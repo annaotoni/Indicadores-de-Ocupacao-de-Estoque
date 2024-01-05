@@ -1,0 +1,1 @@
+Relatório indicando a ocupação de estoque (em Power BI) em um cenário atual, havendo a possibilidade de se incluir filtros de datas para análises temporais. Juntamente está a base de dados em Excel e os códigos utilizados para buscar as informações no banco de dados via MYSQL.
